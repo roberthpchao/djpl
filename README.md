@@ -1,4 +1,4 @@
-No problem! APIs can sometimes go down or block certain regions. Let’s switch to **DummyJSON**. It is one of the most reliable "practice" APIs in the world because it is designed specifically for developers to test their code.
+Let’s switch to **DummyJSON**. It is one of the most reliable "practice" APIs in the world because it is designed specifically for developers to test their code.
 
 It requires **no API keys** and is almost never down.
 
